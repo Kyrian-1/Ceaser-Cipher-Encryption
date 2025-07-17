@@ -2,11 +2,11 @@
 Ceaser cipher encryption with python
 Caesar Cipher Tool
 
-Overview
+ *Overview
 
 This is a simple Python program that implements the Caesar Cipher algorithm for encrypting and decrypting text. The tool allows users to shift letters by a specified value, preserving case and non-alphabetic characters.
 
-Features
+ *Features
 
 
 
@@ -26,7 +26,7 @@ Handles uppercase, lowercase, and special characters.
 
 Includes basic input validation and error handling.
 
-How to Use
+ *How to Use
 
 
 
@@ -54,7 +54,7 @@ Requirements
 
 Python 3.x
 
-Skills Demonstrated
+ *Skills Demonstrated
 
 
 
@@ -76,7 +76,7 @@ Problem-solving
 
 Author
 
-[Your Name]
+Kyrian 
 
 Feedback
 
